@@ -1,4 +1,4 @@
-# -T_praktikum-2-Basis-Data
+# -T_Praktikum-2-Basis-Data
 1. klik nama basis data kemudian pilih lainnya ,pilih menu designer
    
     ![Capture 4](https://github.com/Fanzirfan27/-T_praktikum-1-Basis-Data/assets/160199038/623049b6-4962-424c-9251-346b3ed9289a)
