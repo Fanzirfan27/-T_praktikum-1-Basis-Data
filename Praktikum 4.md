@@ -2,8 +2,10 @@
 # Tugas 1
   **-Mengkonversi ERD Chen ke ERD Versi Martin**
   # ERD Versi Chen
+  ![image](https://github.com/Fanzirfan27/Learn_MyPHP-Admin/assets/160199038/80744938-0fb7-475e-a7e3-0e41b07ee5ad)
   
   # ERD Versi Martin
+  ![image](https://github.com/Fanzirfan27/Learn_MyPHP-Admin/assets/160199038/048266e5-0541-4c71-a50f-bff76ddbc27d)
 
 # Tugas 2
   **-Sebuah perusahaan manufaktur menghasilkan produk. Informasi produk yang disimpan: nama
@@ -15,4 +17,7 @@ komponen tidak harus berhubungan dengan sebuah produk. Tidak semua komponen digu
 produk. Sebuah produk tidak dapat ada tanpa komponen.**
   **Buatlah ERD Versi Chen dan ERD Versi Martin dari study kasus diatas!!!**
   # ERD Versi Chen
+  ![image](https://github.com/Fanzirfan27/Learn_MyPHP-Admin/assets/160199038/5ebcd99d-a54b-4e16-baef-2e712cd57a8c)
+  
   # ERD Versi Martin
+  ![image](https://github.com/Fanzirfan27/Learn_MyPHP-Admin/assets/160199038/d7da2e39-2143-406d-9e18-d511a5db81d2)
