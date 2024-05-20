@@ -1,4 +1,4 @@
-**Praktikum Basis Data Pertemuan 7**
+**Praktikum Basis Data Pertemuan 8**
 
 # Alat
 XAMPP<br>
